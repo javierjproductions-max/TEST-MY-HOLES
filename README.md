@@ -18,4 +18,9 @@ A minimal GitHub Pages deployment test stored in the IGNITE vault.
 
 ## Deployment
 
-The stable URL will be recorded here after the first verified deployment.
+- Stable URL: https://javierjproductions-max.github.io/TEST-MY-HOLES/
+- Source repository: https://github.com/javierjproductions-max/TEST-MY-HOLES
+- Production branch: `main`
+- Hosting: GitHub Pages with HTTPS enforced
+
+Every push to `main` runs the Pages workflow and updates the stable URL.

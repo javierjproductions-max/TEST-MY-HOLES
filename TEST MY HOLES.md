@@ -7,10 +7,10 @@ Test a multi-user workflow where Git is the source of truth, GitHub Pages provid
 ## Status
 
 - Local application: created and HTTP-verified
-- Local Git repository: initialized; initial commit is pending Git author identity
-- Private GitHub repository: pending GitHub authentication and creation
-- GitHub Pages deployment: pending
-- Stable URL: pending
+- Local Git repository: initialized and committed
+- Public GitHub repository: https://github.com/javierjproductions-max/TEST-MY-HOLES
+- GitHub Pages deployment: active and verified
+- Stable URL: https://javierjproductions-max.github.io/TEST-MY-HOLES/
 
 ## Project files
 
@@ -21,4 +21,8 @@ Test a multi-user workflow where Git is the source of truth, GitHub Pages provid
 
 ## Live application
 
-The verified stable URL will be added here after deployment.
+https://javierjproductions-max.github.io/TEST-MY-HOLES/
+
+## Source repository
+
+https://github.com/javierjproductions-max/TEST-MY-HOLES
